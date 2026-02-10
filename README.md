@@ -1,3 +1,3 @@
-Name: Vishnu Vardhan Reddy  
-College: <Your College Name>  
-Workshop Date: <DD/MM/YYYY>
+Name: Thepireddy Vishnu Vardhan Reddy  
+College: <Kalasalingam academy of research and education>  
+Workshop Date: <07/05/2006>
